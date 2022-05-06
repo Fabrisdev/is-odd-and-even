@@ -7,7 +7,7 @@ import isOdd from 'is-odd'
 import isEven from 'is-even'
 
 /**
- * @param {number} i The number to check if it's odd and even
+ * @param {number | string} i The number to check if it's odd and even
  * @returns {boolean} True if the number is odd and even, false otherwise
  */
 export default function isOddAndEven(i){
