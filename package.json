@@ -1,0 +1,16 @@
+{
+    "name": "is-odd-and-even",
+    "author": "fabrisdev",
+    "version": "1.0.0",
+    "description": "Determines if a given number is odd and even",
+    "keywords": [
+        "odd",
+        "even",
+        "number"
+    ],
+    "dependencies": {
+        "is-even": "1.0.0",
+        "is-odd": "3.0.1"
+    },
+    "type": "module"
+}
